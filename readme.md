@@ -1,0 +1,1 @@
+My GitHub repositories showcase a diverse collection of projects, ranging from computer vision and natural language processing to reinforcement learning and deep neural networks. I'm constantly experimenting with new techniques, frameworks, and libraries to stay up-to-date with the latest advancements in the field.
