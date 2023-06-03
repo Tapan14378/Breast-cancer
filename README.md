@@ -1,4 +1,4 @@
-# Breast-cancer
+# Breast-cancer prediction model
 ML project with details preprocessing and highly accurate prediction model.
 
 Breast Cancer Prediction with Preprocessing and Machine Learning
